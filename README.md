@@ -1,2 +1,3 @@
 # Data Structures and Algorithms
-application based on Java
+Standard implementations of DSA. 
+Add some if you want.
